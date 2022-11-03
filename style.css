@@ -52,5 +52,8 @@ img{
     padding: 10px;
     color: white;
     background-image: url(https://as1.ftcdn.net/v2/jpg/02/60/36/16/1000_F_260361682_dmdLH25SexfGRdoGHqf2FRVImoalavg4.jpg);
-
+}
+#exp{
+    margin:15px;
+    padding-left: 25px;
 }
